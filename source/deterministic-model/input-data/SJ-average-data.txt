@@ -1,0 +1,4 @@
+quantity,factor,exponent,unit
+newborn_length,1.47,0.41,um
+average_width,0.41,0.36,um
+newborn_volume,0.19,1.11,um3
